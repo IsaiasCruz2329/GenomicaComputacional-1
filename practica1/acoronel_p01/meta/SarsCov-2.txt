@@ -1,0 +1,25 @@
+La conferencia fue dada por el Dr. Constantino Roberto López Macías en donde toca
+los temas acerca de la estructura del coronavirus SARS-COV-2 y su relevancia para
+el desarrollo de diagnósticos, vacunas y tratamientos.
+
+Comienza mostrando una microscopía electrónica en donde se muestran las espículas
+que le hacen parecer como una corona y de ahí el nombre de coronavirus. Después
+muestra la familia de los diferentes coronavirus y a quién afecta. Seguido de
+eso habla de la estructura genómica obtenida por la secuenciación de muestras de
+lavado broncoalveolar de pacientes.
+
+También habla del análisis filogenético y la epidemiología genómica que permite
+ver las divergencias/mutaciones que se han estado dando. Por otro lado habla de
+la estructura del virus: Virus de RNA de cadena sencilla positiva que está
+enrollado en una nucleocápside y envuelto en una envoltura por una glicoproteína
+de membrana (proteína de la envoltura) y tiene espículas altamente glicosiladas
+(proteína S), de tamaño de 50-200 nm.
+
+Habla de la constitución de la proteína S: cómo penetra el material genético,
+activadores de las proteína S para la fusión de membranas, estructura con ayuda
+de la proteína cristalizada, modelar los posibles receptores. Con ayuda de la
+anatomía molecular se pueden desarrollar anticuerpos, vacunas y demás.
+
+Finalmente se habla de las diferentes estrategias para el desarrollo de vacunas,
+los esfuerzos que se estaban haciendo en marzo de este año y la importancia
+de la ciencia en situaciones como esta.

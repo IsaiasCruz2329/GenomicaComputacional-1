@@ -1,0 +1,7 @@
+La spike protein del coronavirus se define como una máquina molecular
+multifuncional cuya función es mediar la entrada del coronavirus en las
+células huésped. Esto lo hace de la siguiente manera:
+
+  - Se une a un receptor en la superficie de la célula huésped a través de
+    su subunidad S1.
+  - Fusiona las membranas del virus y el huésped a través de su subunidad S2.
