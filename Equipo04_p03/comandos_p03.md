@@ -15,7 +15,7 @@ Sanger/Life technologies | 800 | 1 | 2 h | 2400 | 0.3 | Dideoxy terminator
 Segunda generación | 
 454 GS FLX+/Roche | 700 | 1x10^6 | 24/48 h | 10 | 1 | Pyrosequencing 
 GS Junior/Roche | 500 | 1x10^5 | 18 h | 9 |  | Pyrosequencing 
-HiSeq/Illumina/1500 Gb | 2x150 | 5x10^^9| 27/240 h | 0.1 | 0.8 | Reversible terminators 
+HiSeq/Illumina/1500 Gb | 2x150 | 5x10^9| 27/240 h | 0.1 | 0.8 | Reversible terminators 
 MiSeq/Illumina/15 Gb | 2x300 | 3x10^8 | 27 h | 0.13 | 0.8 | Reversible terminator 
 SOLiD/Life Technologies | 50 | 1x10^9 | 14 días | 0.13 | 0.1 | Ligation 
 Retrovolocity/BGI | 50 | 1x10^9 | 14 días | 0.01 | 0.01 | Nanoball/ligation 
